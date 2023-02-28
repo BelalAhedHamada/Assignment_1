@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353355403491",
+    "project_id": "testaa-b6997",
+    "storage_bucket": "testaa-b6997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353355403491:android:6aa1319a22c58a410fb5d6",
+        "android_client_info": {
+          "package_name": "com.example.customlistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353355403491-m88nekekgcdo8gsatrngp0v0mnga0efv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_6teAEnZFBebebi02nDAHKa7e5e5H6dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353355403491-m88nekekgcdo8gsatrngp0v0mnga0efv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
